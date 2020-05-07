@@ -1,5 +1,5 @@
 # OpenCV2-Simple-Blob-Detector
-Open an image and count number of objects. Clean background required. OpenCV2 does most work.
+Open an image and count number of objects. Clean background required. OpenCV2 does most work. Not very accurate, unfortunately. Works best on round objects. Requires too many hyperparameters to work which change for different shapes. Needs more preprocessing such as feature detection.
 
 https://opencv.org/license/
 
